@@ -1,0 +1,5 @@
+[
+    { "id": 1, "titre": "Livre un", "auteur": "Auteur un" },
+    { "id": 2, "titre": "Livre deux", "auteur": "Auteur deux" },
+    { "id": 3, "titre": "Livre trois", "auteur": "Auteur trois" }
+  ]
